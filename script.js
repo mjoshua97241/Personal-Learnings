@@ -324,3 +324,23 @@ class App {
 
 const app = new App();
 // app._getPosition();
+
+////////////////////////* 10 Additional Feature Ideas: Challenges
+/*
+1. EDIT workout
+2. DELETE a workout
+3. DELETE ALL workouts for the UI
+4. SORT workouts by a certain field (e.g. distance) -> refer to Bankist
+5. REBUILD Running and Cycling objects coming from local Storage
+6. Realistic error and confirmation MESSAGES (idea: fadeout)
+
+/// HARD
+7. Ability to position the map to SHOW ALL WORKOUTS -> dig deeper on leaflet documentation
+8. Ability to DRAW LINES AND SHAPES instead of just points
+
+/// AFTER ASYNCHROUS JS Section
+9. GEOCODE LOCATION from coordinates ("Run in Faro, Portugal")
+10. DISPLAY WEATHER data for workout time and place
+
+
+*/
